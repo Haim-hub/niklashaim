@@ -70,10 +70,10 @@ export default function MyTimeline() {
                   Asset Management
                 </li>
                 <li>
-                  Employee On and Offboarding
+                  Technical Support
                 </li>
                 <li>
-                  Request Handeling
+                  Employee On and Offboarding
                 </li>
                 <li>
                   Label Printer Integration With ERP System
