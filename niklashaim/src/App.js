@@ -2,6 +2,7 @@ import Navbar from "./Navbar.js";
 import Home from "./Home.js";
 import CV from "./CV.js";
 import About from "./About.js";
+import Contact from "./Contact.js";
 
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       < Home />
       < CV/>
       <About />
+      <Contact/>
     </div>
     
   )

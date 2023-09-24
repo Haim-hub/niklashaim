@@ -27,7 +27,7 @@ function Navbar(){
                                 <a class="nav-link bg-light rounded" href="#">Work</a>
                             </li>
                             <li class="nav-item  p-2">
-                                <a class="nav-link bg-light rounded" href="#">Contact</a>
+                                <a class="nav-link bg-light rounded" href="/#Contact">Contact</a>
                             </li>
                             </ul>
                         </div>

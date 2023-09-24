@@ -26,6 +26,9 @@ export default function About(){
 
             <div class="container-fluid ">
                 <div class="row justify-content-center bg-white">
+                    <div class="col-md-6 col-12 p-0">
+                        <img class="img-fluid" src="./me4.png"  alt="Responsive image"></img>
+                    </div>
                     <div class="col-md-6 col-12 p-0 d-flex">
                         <div class="col-md-8 col-9 mx-auto align-self-center py-3">
                             <h1> Who Am I? </h1>
@@ -41,14 +44,12 @@ export default function About(){
                             </p>
                         </div>
                     </div>
-                    <div class="col-md-6 col-12 p-0">
-                        <img class="img-fluid" src="./me4.png"  alt="Responsive image"></img>
-                    </div>
+                    
                 </div>
             </div>
 
             <div class="container-fluid bg-light">
-                <div class="container">
+                <div class="container mb-3">
                     <div class="row">
                         <div class="col-md-8 col-9 mx-auto d-block py-5">
                             <h1 class="text-center">  Hobbies </h1>
