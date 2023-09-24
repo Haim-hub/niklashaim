@@ -4,20 +4,20 @@ import PhotoAlbum from "react-photo-album";
 
 // Yes you need all the sizes...
 const photos = [
-    { src: "./climbing/1.jpg", width: 3000, height: 4000 },
-    { src: "./climbing/2.jpg", width: 4000, height: 3000 },
-    { src: "./climbing/3.jpg", width: 3024, height: 4032 },
-    { src: "./climbing/4.jpg", width: 2176 , height: 4608 },
-    { src: "./climbing/5.jpg", width: 3680, height: 6528 },
-    { src: "./climbing/6.jpg", width: 1080, height: 1286 },
-    { src: "./climbing/7.jpg", width: 3000, height: 4000 },
-    { src: "./climbing/8.jpg", width: 3024, height: 4032 },
-    { src: "./climbing/9.jpg", width: 942, height: 572 },
-    { src: "./climbing/10.jpg", width: 720, height: 960 },
-    { src: "./climbing/11.jpeg", width: 1004, height: 669 },
-    { src: "./climbing/12.jpg", width: 960, height: 640 },
-    { src: "./climbing/13.png", width: 1946, height: 1266 },
-    { src: "./climbing/14.jpg", width: 1080, height: 811 },
+    { src: "./1.jpg", width: 3000, height: 4000 },
+    { src: "./2.jpg", width: 4000, height: 3000 },
+    { src: "./3.jpg", width: 3024, height: 4032 },
+    { src: "./4.jpg", width: 2176 , height: 4608 },
+    { src: "./5.jpg", width: 3680, height: 6528 },
+    { src: "./6.jpg", width: 1080, height: 1286 },
+    { src: "./7.jpg", width: 3000, height: 4000 },
+    { src: "./8.jpg", width: 3024, height: 4032 },
+    { src: "./9.jpg", width: 942, height: 572 },
+    { src: "./10.jpg", width: 720, height: 960 },
+    { src: "./11.jpeg", width: 1004, height: 669 },
+    { src: "./12.jpg", width: 960, height: 640 },
+    { src: "./13.png", width: 1946, height: 1266 },
+    { src: "./14.jpg", width: 1080, height: 811 },
 ];
 
 export default function About(){
