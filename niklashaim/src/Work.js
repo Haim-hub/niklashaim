@@ -16,7 +16,7 @@ export default function Work(){
                     </div>
 
                     <div class="row justify-content-md-center pb-5">
-                    <div class="col-md-4 col-12 py-3 py-md-0">
+                    <div class="col-xl-4 col-lg-8 col-12 py-3">
                             <div class="card h-100" >
                                 <img class="card-img-top" src="./yourProject.png" alt="Card image cap"></img>
                                 <div class="card-body">
@@ -47,8 +47,8 @@ export default function Work(){
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-md-4 col-12 py-3 py-md-0">
+                    </div>
+                    <div class="col-xl-4 col-lg-8 col-12 py-3">
                             <div class="card h-100">
                                 <img class="card-img-top" src="./niklashaim.png" alt="Card image cap"></img>
                                 <div class="card-body">
@@ -73,7 +73,7 @@ export default function Work(){
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                    </div>
                         
                     </div>
 

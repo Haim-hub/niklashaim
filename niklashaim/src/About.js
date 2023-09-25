@@ -58,7 +58,7 @@ export default function About(){
                     </div>
 
                     <div class="row justify-content-md-center pb-5">
-                        <div class="col-md-4 col-12 py-3 py-md-0">
+                        <div class="col-xl-4 col-lg-8 col-12 py-3">
                             <div class="card h-100">
                                 <div class="card-body p-0">
                                     <h4 class="text-center p-5 bg-light"> Climbing &#129495; </h4>
@@ -75,7 +75,7 @@ export default function About(){
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-4 col-12 py-3 py-md-0">
+                        <div class="col-xl-4 col-lg-8 col-12 py-3">
                             <div class="card h-100" >
                                 <div class="card-body p-0">
                                     <h4 class="text-center p-5 bg-light"> Music &#127932; </h4>
@@ -92,7 +92,7 @@ export default function About(){
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-4 col-12 py-3 py-md-0">
+                        <div class="col-xl-4 col-lg-8 col-12 py-3">
                             <div class="card h-100">
                                 <div class="card-body p-0">
                                     <h4 class="text-center p-5 bg-light"> Cooking &#127859; </h4>
