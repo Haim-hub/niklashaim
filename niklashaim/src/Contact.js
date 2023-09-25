@@ -20,7 +20,7 @@ export default function Contact(){
                         </div>
 
                         <div class="col-md-1 col-3 mx-auto d-flex">
-                            <a href="www.linkedin.com/in/niklas-haim-917b3a224">
+                            <a href="https://www.linkedin.com/in/niklas-haim-917b3a224">
                                 <img class="img-fluid w-100" src="./linkedin.png"  alt="Responsive image"></img>
                             </a>
                         </div>

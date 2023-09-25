@@ -26,7 +26,7 @@ export default function CV(){
                         </div>
                     </div>
 
-                    <div class="row justify-content-md-center pb-5">
+                    <div class="row justify-content-md-center pb-4">
                         <div class="col-md-4 col-12 py-3 py-md-0">
                             <div class="card h-100">
                                 <img class="card-img-top" src="./OOP.png" alt="Card image cap"></img>
@@ -34,7 +34,7 @@ export default function CV(){
                                     <h4 class="text-center pt-3"> Object Oriented Programming</h4>
                                     <ul class="pt-1 list-unstyled text-center">
                                         <li>
-                                            Java 
+                                            Java                                        
                                         </li>
                                         <li>
                                             C++
@@ -86,7 +86,7 @@ export default function CV(){
                         </div>
                     </div>
 
-                    <div class="row pb-5">
+                    <div class="row pb-5 mt-0">
                         <div class="col-12">
                             <div class="card h-100">
                                 <div class="card-body">
@@ -113,7 +113,7 @@ export default function CV(){
             </div>
 
             {/* Language */}
-            <div class="container-fluid bg-light w-100 m-0 py-5">
+            <div class="container-fluid bg-light w-100 py-5">
                 <div class="row">
                     <div class="col-md-8 col-9 mx-auto d-block pb-5">
                         <h2 class="text-center">  Language Proficiency </h2>

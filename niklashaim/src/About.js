@@ -25,7 +25,7 @@ export default function About(){
         <div id="About">
 
             <div class="container-fluid ">
-                <div class="row justify-content-center bg-white">
+                <div class="row justify-content-center bg-light">
                     <div class="col-md-6 col-12 p-0">
                         <img class="img-fluid" src="./me4.png"  alt="Responsive image"></img>
                     </div>
@@ -48,7 +48,7 @@ export default function About(){
                 </div>
             </div>
 
-            <div class="container-fluid bg-light">
+            <div class="container-fluid bg-white">
                 <div class="container mb-3">
                     <div class="row">
                         <div class="col-md-8 col-9 mx-auto d-block py-5">
