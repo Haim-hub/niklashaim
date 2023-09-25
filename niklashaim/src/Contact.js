@@ -14,23 +14,23 @@ export default function Contact(){
 
                     <div class="row pb-5">
                         <div class="col-md-1 col-3 mx-auto d-flex">
-                            <a href="mailto:niklas@haim.dk">
+                            <a href="mailto:niklas@haim.dk" target="_blank" rel="noreferrer">
                                 <img class="img-fluid w-100" src="./mail.png"  alt="Responsive image"></img>
                             </a>
                         </div>
 
                         <div class="col-md-1 col-3 mx-auto d-flex">
-                            <a href="https://www.linkedin.com/in/niklas-haim-917b3a224">
+                            <a href="https://www.linkedin.com/in/niklas-haim-917b3a224" target="_blank" rel="noreferrer">
                                 <img class="img-fluid w-100" src="./linkedin.png"  alt="Responsive image"></img>
                             </a>
                         </div>
                         <div class="col-md-1 col-3 mx-auto d-flex">
-                            <a href="https://www.instagram.com/niklashaim/">
+                            <a href="https://www.instagram.com/niklashaim/" target="_blank" rel="noreferrer">
                                 <img class="img-fluid w-100" src="./Instagram.png"  alt="Responsive image"></img>
                             </a>
                         </div>
                         <div class="col-md-1 col-3 mx-auto d-flex">
-                            <a href="https://www.youtube.com/@NiklasHaim">
+                            <a href="https://www.youtube.com/@NiklasHaim" target="_blank" rel="noreferrer">
                                 <img class="img-fluid w-100" src="./youtube.png"  alt="Responsive image"></img>
                             </a>
                         </div>
