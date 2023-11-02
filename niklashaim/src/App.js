@@ -9,6 +9,7 @@ import Work from "./Work.js";
 function App() {
   return (
     <div>
+      <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
       < Navbar />
       < Home />
       < CV/>
