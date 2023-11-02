@@ -52,9 +52,9 @@ export default function Work(){
                             <div class="card h-100">
                                 <img class="card-img-top" src="./niklashaim.png" alt="Card image cap"></img>
                                 <div class="card-body">
-                                    <h4 class="text-center pt-3"> niklas.haim.dk</h4>
+                                    <h4 class="text-center pt-3"> CV Side </h4>
                                     <p class="pt-1 w-75 mx-auto ">
-                                        This is the website you are currently on. I was made for two reasons: 
+                                        This is the website you are currently on. I made it for two reasons: 
                                         I wanted to have a website that could work as a CV, and I wanted to try and learn React, while practicing some other skills aswell.
                                     </p>
                                     <div class="w-75 mx-auto d-flex flex-wrap text-light mt-5">
